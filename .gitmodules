@@ -1,0 +1,3 @@
+[submodule "deepderpibooru"]
+	path = deepderpibooru
+	url = https://github.com/K-Kazum1/deepderpibooru
