@@ -1,0 +1,47 @@
+{
+	"tagFile": "derpibooru.csv",
+	"activeIn": {
+		"txt2img": true,
+		"img2img": true,
+		"negativePrompts": true
+	},
+	"hideUIOptions": false,
+	"maxResults": 5,
+	"resultStepLength": 500,
+	"delayTime": 100,
+	"showAllResults": false,
+	"useLeftRightArrowKeys": false,
+	"replaceUnderscores": true,
+	"escapeParentheses": true,
+	"appendComma": true,
+	"useWildcards": true,
+	"useEmbeddings": true,
+	"alias": {
+		"searchByAlias": true,
+		"onlyShowAlias": false
+	},
+	"translation": {
+		"translationFile": "",
+		"oldFormat": false,
+		"searchByTranslation": true
+	},
+	"extra": {
+		"extraFile": "",
+		"onlyAliasExtraFile": false
+	},
+	"colors": {
+		"derpibooru": {
+			"-1": ["#4aa158", "#6f8f0e"],
+			"0":	["#418dd9", "#267ead"],
+			"1":	["#d49b39", "#c24523"],
+			"2":	["#6f66d6", "#393f85"],
+			"3":	["#b157b7", "#9852a3"],
+			"4":	["#d45460", "#ad263f"],
+			"5":	["#4aaabf", "#2d8677"],
+			"6":	["#b9b541", "#998e1a"],
+			"7":	["#cc8eb5", "#bb5496"],
+			"8":	["#b16b50", "#8b552f"],
+			"9":	["#b8b8b8", "#4e4e4e"]
+		}
+	}
+}

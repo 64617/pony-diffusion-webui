@@ -1,3 +1,6 @@
 [submodule "deepderpibooru"]
 	path = deepderpibooru
 	url = https://github.com/64617/deepderpibooru
+[submodule "a1111-sd-webui-tagcomplete"]
+	path = a1111-sd-webui-tagcomplete
+	url = https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
