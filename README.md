@@ -1,7 +1,9 @@
 # webui pony extension
-Install this via the extensions tab in the webui
+1. Install this via the extensions tab in the webui,
 
 ![](install.png)
+
+2. Then **restart the webui** (re-run `./webui.sh` or `./webui.bat`)
 
 ## Deepderpibooru
 This extension adds the [Deepderpibooru](https://github.com/64617/deepderpibooru) model for use.
