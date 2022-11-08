@@ -6,8 +6,7 @@ from pathlib import Path
 
 extension_dir = Path(__file__).parent
 extension_repo = git.Repo(extension_dir)
-for submodule in extension_repo.submodules:
-    submodule.update()
+extension_repo.git.submodule('update', '--init')
 
 ##
 ## DDB
